@@ -5,12 +5,11 @@ GetBack is a platform designed to help people report and find lost and found ite
 ## Instructions on how to run the application locally 📝
 
 - 1️⃣ Clone the repository to your machine. Use this link to do it.
-  ↦ <https://github.com/gsjoy24/getback-client.git>
 - 2️⃣ Open the project in vs code and create a file named .env in the root of the folder.
 - 3️⃣ Add the code bellow in the .env file
 
 ```
-NEXT_PUBLIC_SERVER_URL=https://lost-and-found-server-joy.vercel.app/api
+NEXT_PUBLIC_SERVER_URL=https://getback-server.vercel.app/api
 
 # cloudinary
 # use your credentials here
@@ -18,7 +17,6 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
 NEXT_PUBLIC_CLOUDINARY_API_KEY=
 NEXT_PUBLIC_CLOUDINARY_API_SECRET=
 
-NEXT_PUBLIC_MEASUREMENT_ID=
 ```
 
 - 4️⃣ Open the command prompt on the project path or terminal on the vs code by pressing Ctrl + `
@@ -31,11 +29,11 @@ NEXT_PUBLIC_MEASUREMENT_ID=
 
 links ↦
 
-- client-git: <https://github.com/gsjoy24/getback-client>
-- backend-git: <https://github.com/gsjoy24/getback-server>
+client-git: <https://github.com/hasansharif819/getback-client>
+backend-git: <https://github.com/hasansharif819/getback>
 
-- client-live: <http://getback.vercel.app/>
-- backend-live: <https://lost-and-found-server-joy.vercel.app/>
+client-live: <https://getback-lemon.vercel.app>
+backend-live: <https://getback-server.vercel.app>
 
 admin - there is no dashboard right now. but all apis are already created on the server.
 
