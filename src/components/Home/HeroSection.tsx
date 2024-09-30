@@ -38,8 +38,7 @@ const HeroSection = () => {
 								lineHeight: 1.6
 							}}
 						>
-							Our platform connects people who have lost their belongings with those who have found them. Report a lost
-							item or return a found item easily and quickly.
+							Our platform bridges the gap between people who have lost something and those who have found it. Easily report or return items in just a few steps.
 						</Typography>
 						<Box
 							sx={{
