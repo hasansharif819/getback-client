@@ -20,7 +20,8 @@ const LostItemCard = ({ item }: any) => {
 		<Card
 			sx={{
 				maxWidth: 330,
-				height: '100%',
+				// height: '100%',
+				height: 460,
 				display: 'flex',
 				flexDirection: 'column',
 				justifyContent: 'space-between',

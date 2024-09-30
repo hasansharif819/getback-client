@@ -60,7 +60,7 @@ const ClaimDetails = () => {
 			<Stack
 				direction={{
 					xs: 'column',
-					sm: 'row'
+					sm: 'column'
 				}}
 				gap={3}
 				justifyContent='center'

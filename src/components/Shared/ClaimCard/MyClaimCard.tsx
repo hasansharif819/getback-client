@@ -12,7 +12,7 @@ const MyClaimCard = ({ item }: { item: TClaim }) => {
 		<Card
 			sx={{
 				maxWidth: 330,
-				height: 390,
+				height: 460,
 				position: 'relative',
 				'& image': {
 					overflow: 'hidden'
