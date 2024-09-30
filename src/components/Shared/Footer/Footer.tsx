@@ -15,8 +15,7 @@ const Footer = () => {
 					<Grid item xs={12} sm={3}>
 						<Image src={logo} alt='GetBack Logo' width={150} height={100} />
 						<Typography variant='body2' sx={{ mt: 2 }}>
-							Learn more about our mission to reunite lost items with their owners. Our community is dedicated to
-							helping each other find what’s missing.
+						Discover our mission to reconnect lost items with their owners. We are a community committed to helping one another find what’s missing.
 						</Typography>
 					</Grid>
 					<Grid item xs={12} sm={3}>
