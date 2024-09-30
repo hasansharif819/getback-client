@@ -41,14 +41,10 @@ const Reunion = () => {
 								}
 							}}
 						>
-							Our Last Reunion Event
+							Warm and Nostalgic
 						</Typography>
 						<Typography variant='body2'>
-							Our last reunion event took place on May 15, 2024, at Central Park, New York City, celebrating the
-							heartwarming reunions of lost items with their owners. Attendees shared their stories of finding and
-							returning lost belongings, fostering a sense of community and goodwill. The event featured live music,
-							refreshments, and a showcase of the most memorable reunions. Join us at our next event to be part of these
-							touching moments!
+						On Septemer 30, 2024, Minnesota in MN was the scene of heartwarming reunions at our last event. Attendees shared touching stories of reuniting lost items with their owners, enjoying live music and refreshments in a celebration of community. Make sure to join us at our next event and witness these incredible moments firsthand!
 						</Typography>
 					</Box>
 				</Stack>
