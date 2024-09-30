@@ -22,7 +22,7 @@ const RecentLostItems = async () => {
 				>
 					<SectionTitle
 						title='Recent Lost Items'
-						desc='Dive into a collection of recently lost items awaiting reconnection with their owners.'
+						desc='Take a look at the latest lost items, waiting to be reunited with their rightful owners. Could you help reconnect them?'
 					/>
 					<Stack
 						justifyContent='center'
