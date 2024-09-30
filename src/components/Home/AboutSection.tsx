@@ -32,7 +32,7 @@ const AboutSection = () => {
 										color: '#333'
 									}}
 								>
-									About GetBack
+									About Get-Back
 								</Typography>
 								<Typography
 									variant='body1'
@@ -43,10 +43,7 @@ const AboutSection = () => {
 										mb: 3
 									}}
 								>
-									GetBack is a community-driven platform designed to help people report and reclaim lost items. Our
-									mission is to connect finders with owners, making it easier for lost belongings to be reunited with
-									their rightful owners. Join us today and be part of a community dedicated to bringing lost items back
-									home.
+									At GetBack, we’re all about helping people find what they’ve lost. By connecting finders with owners, we make it easier to reunite lost items with those who miss them. Become part of a caring community that’s bringing lost belongings back home. 
 								</Typography>
 								<Button component={Link} href='/about' variant='contained' color='primary' sx={{ px: 4, py: 1 }}>
 									Our Journey
