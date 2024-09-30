@@ -48,11 +48,11 @@ const CredentialModal = () => {
 						</Typography>
 						<Box id='transition-modal-description' sx={{ mt: 2 }}>
 							<pre>
-								User -- <br />
-								Email: sharif819@gmail.com <br />
+								User Credential <br />
+								Email: sharif@gmail.com <br />
 								Password: 123456 <br />
 								<br />
-								Admin -- <br />
+								Admin Credential <br />
 								Email: hs.sharif819@gmail.com <br />
 								Password: SuperAdmin
 							</pre>
